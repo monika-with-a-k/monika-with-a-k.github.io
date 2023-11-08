@@ -54,14 +54,14 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: MSc in Computing (with Distinction)
+    - degree: MSc Computing
       university: Edinburgh Napier University
-      time: 2015 - 2016
+      time: 2016
       details: |
 
-    - degree: BSc in Wirtschaftsinformatik (Business Information Systems)
-      university: DHBW (Baden-Wuerttemberg Cooperative State University)
-      time: 2011 - 2014
+    - degree: BSc Wirtschaftsinformatik
+      university: DHBW Ravensburg
+      time: 2014
       details: |
 
 experiences:
