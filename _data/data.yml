@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Monika Wiest
   tagline: Engineering Lead
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email:
@@ -46,7 +46,7 @@ career-profile:
   summary: |
     Engineering Lead looking for consulting or co-founding opportunities in Berlin. 
     I love building great products and teams, and I am looking for a new challenge to grow and learn.
-    |
+
     Currently only interested in 
     - Co-founding opportunities
     - Consulting/Contract opportunities
@@ -56,12 +56,12 @@ education:
   info:
     - degree: MSc Computing
       university: Edinburgh Napier University
-      time: 2016
+      time: 2015 - 2016
       details: |
 
     - degree: BSc Wirtschaftsinformatik
       university: DHBW Ravensburg
-      time: 2014
+      time: 2011 - 2014
       details: |
 
 experiences:
