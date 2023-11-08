@@ -48,6 +48,9 @@ career-profile:
   summary: |
     Engineering Lead looking for consulting or co-founding opportunities in Berlin. 
     I love building great products and teams, and I am looking for a new challenge to grow and learn.
+    Currently only interested in 
+    - Co-founding opportunities
+    - Consulting/Contract opportunities
 
 education:
   title: Education
@@ -80,12 +83,8 @@ experiences:
       company: Klarna, Berlin
       details: |
         Various projects including in-store payments, customer service tooling, and customer authentication processes, while supporting to establish the new Klarna office in Berlin.
-    - role: IT Consultant / Engineer @ international bank and payment provider
-      time: Jan 2018 - Dec 2019 (2 years)
-      company: Netlight, Berlin
-      details:
-    - role: IT Consultant / Engineer @ well-known food delivery company
-      time: Oct 2016 - Dec 2017 (1 year, 3 months)
+    - role: IT Consultant / Engineer
+      time: Oct 2016 - Dec 2019 (3 years, 3 months)
       company: Netlight, Berlin
       details:
     - role: Software Developer
