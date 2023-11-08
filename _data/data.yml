@@ -46,6 +46,7 @@ career-profile:
   summary: |
     Engineering Lead looking for consulting or co-founding opportunities in Berlin. 
     I love building great products and teams, and I am looking for a new challenge to grow and learn.
+    |
     Currently only interested in 
     - Co-founding opportunities
     - Consulting/Contract opportunities
@@ -87,7 +88,7 @@ experiences:
       details:
     - role: Software Developer
       time: Nov 2010 - Aug 2015 (4 years, 10 months)
-      company: CGM SYSTEMA Deutschland GmbH, Oberessendorf
+      company: CGM SYSTEMA Deutschland
       details:
 
 certifications:
