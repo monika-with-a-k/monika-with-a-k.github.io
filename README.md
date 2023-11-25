@@ -2,6 +2,10 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
+# [Website](https://monika-with-a-k.github.io/)
+
+This is the repository for my public [website](https://monika-with-a-k.github.io/)
+
 # CV Template
 
 Fork of this [Jekyll template](https://github.com/sharu725/online-cv/fork) by [sharu725](https://github.com/sharu725)
