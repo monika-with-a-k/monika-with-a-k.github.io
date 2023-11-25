@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Monika Wiest
   tagline: Engineering Lead
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email:
@@ -55,12 +55,12 @@ education:
   title: Education
   info:
     - degree: MSc Computing
-      university: Edinburgh Napier University
+      university: Edinburgh Napier University, UK
       time: 2015 - 2016
       details: |
 
     - degree: BSc Wirtschaftsinformatik
-      university: DHBW Ravensburg
+      university: DHBW Ravensburg, DE
       time: 2011 - 2014
       details: |
 
@@ -82,7 +82,7 @@ experiences:
       company: Klarna, Berlin
       details: |
         Various projects including in-store payments, customer service tooling, and customer authentication processes, while supporting to establish the new Klarna office in Berlin.
-    - role: IT Consultant / Engineer
+    - role: Software Engineer / IT Consultant
       time: Oct 2016 - Dec 2019 (3 years, 3 months)
       company: Netlight, Berlin
       details:
