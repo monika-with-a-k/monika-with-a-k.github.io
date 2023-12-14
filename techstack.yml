@@ -1,11 +1,11 @@
 repo_name: monika-with-a-k/monika-with-a-k.github.io
-report_id: 66ffb0939667be37dc834c0365027dfa
+report_id: 7977882230aacd3c411ad44b35c9f5fc
 repo_type: Public
-timestamp: '2023-11-18T12:29:20+00:00'
-requested_by: MoniW
+timestamp: '2023-12-14T13:14:13+00:00'
+requested_by: monika-with-a-k
 provider: github
 branch: main
-detected_tools_count: 9
+detected_tools_count: 12
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -36,6 +36,17 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: assets/plugins/font-awesome/LICENSE.txt
+  last_updated_by: monika.with.a.k
+  last_updated_on: 2023-11-08 19:25:48.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -80,15 +91,38 @@ tools:
 - name: Jekyll
   description: Blog-aware, static site generator in Ruby
   website_url: http://jekyllrb.com/
-  version: 3.9.2
+  version: 3.9.3
   license: MIT
   open_source: true
   hosted_saas: false
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
-  detection_source_url: Gemfile.lock
-  detection_source: docker-compose.yml
+  detection_source_url: https://github.com/monika-with-a-k/monika-with-a-k.github.io/blob/main/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: monika.with.a.k
+  last_updated_on: 2023-11-08 19:25:48.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: assets/plugins/font-awesome/LICENSE.txt
+  last_updated_by: monika.with.a.k
+  last_updated_on: 2023-11-08 19:25:48.000000000 Z
+- name: github-pages
+  description: Bootstrap the GitHub Pages Jekyll environment locally
+  package_url: https://rubygems.org/github-pages
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/rubygems/image.png
+  detection_source: Gemfile
   last_updated_by: monika.with.a.k
   last_updated_on: 2023-11-08 19:25:48.000000000 Z
 - name: webrick
@@ -102,7 +136,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19444/default_e747a715ce0379afdb68c78657d70e4a512bf5f4.png
-  detection_source_url: Gemfile.lock
+  detection_source_url: https://github.com/monika-with-a-k/monika-with-a-k.github.io/blob/main/Gemfile.lock
   detection_source: Gemfile
   last_updated_by: monika.with.a.k
   last_updated_on: 2023-11-08 19:25:48.000000000 Z
